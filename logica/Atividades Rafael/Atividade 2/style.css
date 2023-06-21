@@ -1,0 +1,28 @@
+h1{
+    color: crimson;
+    background-color: black;
+    border: 2px solid red;
+    border-radius: 8px;
+    border-left-width: 16px;
+    border-right-width: 16px;
+    font-size: 42px;
+}
+
+h2{
+    color: cyan;
+    
+}
+
+p{
+    color: aquamarine;
+    
+}
+body{
+    background-color: black;
+}
+#container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
